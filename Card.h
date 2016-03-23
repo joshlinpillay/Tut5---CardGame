@@ -13,6 +13,6 @@ public:
 
 	Card Card::colour(Card& i);
 	Card Card::number(Card &i);
-;
+};
 
 
